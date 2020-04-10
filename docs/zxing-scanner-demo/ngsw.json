@@ -1,0 +1,88 @@
+{
+  "configVersion": 1,
+  "timestamp": 1586498836566,
+  "index": "https://aliayub007.github.io/ScannerRepo/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://aliayub007.github.io/ScannerRepo/favicon.ico",
+        "https://aliayub007.github.io/ScannerRepo/index.html",
+        "https://aliayub007.github.io/ScannerRepo/main-es2015.5cd471cbe76618be5d11.js",
+        "https://aliayub007.github.io/ScannerRepo/main-es5.5cd471cbe76618be5d11.js",
+        "https://aliayub007.github.io/ScannerRepo/manifest.webmanifest",
+        "https://aliayub007.github.io/ScannerRepo/polyfills-es2015.f9c998e4f61258bf4bc8.js",
+        "https://aliayub007.github.io/ScannerRepo/polyfills-es5.e635ccaa1f7b054edd2e.js",
+        "https://aliayub007.github.io/ScannerRepo/runtime-es2015.0811dcefd377500b5b1a.js",
+        "https://aliayub007.github.io/ScannerRepo/runtime-es5.0811dcefd377500b5b1a.js",
+        "https://aliayub007.github.io/ScannerRepo/styles.b89a2205c076858cd494.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://aliayub007.github.io/ScannerRepo/assets/icons/icon-128x128.png",
+        "https://aliayub007.github.io/ScannerRepo/assets/icons/icon-144x144.png",
+        "https://aliayub007.github.io/ScannerRepo/assets/icons/icon-152x152.png",
+        "https://aliayub007.github.io/ScannerRepo/assets/icons/icon-16x16.png",
+        "https://aliayub007.github.io/ScannerRepo/assets/icons/icon-192x192.png",
+        "https://aliayub007.github.io/ScannerRepo/assets/icons/icon-32x32.png",
+        "https://aliayub007.github.io/ScannerRepo/assets/icons/icon-384x384.png",
+        "https://aliayub007.github.io/ScannerRepo/assets/icons/icon-512x512.png",
+        "https://aliayub007.github.io/ScannerRepo/assets/icons/icon-72x72.png",
+        "https://aliayub007.github.io/ScannerRepo/assets/icons/icon-96x96.png",
+        "https://aliayub007.github.io/ScannerRepo/assets/icons/mstile-150x150.png",
+        "https://aliayub007.github.io/ScannerRepo/assets/icons/safari-pinned-tab.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://aliayub007.github.io/ScannerRepo/assets/icons/icon-128x128.png": "842bdceef25f5740f200de22180141847b2f0b80",
+    "https://aliayub007.github.io/ScannerRepo/assets/icons/icon-144x144.png": "58b1834a019ac1717860017605a8aea507d357b5",
+    "https://aliayub007.github.io/ScannerRepo/assets/icons/icon-152x152.png": "40fbef2fb5ccb2b372fc999b8b85ce140d0941cd",
+    "https://aliayub007.github.io/ScannerRepo/assets/icons/icon-16x16.png": "f29dd83494bacad509ab9209d0fe3bac590372f3",
+    "https://aliayub007.github.io/ScannerRepo/assets/icons/icon-192x192.png": "87928464dba1d7c788c9f6de956f99947470a359",
+    "https://aliayub007.github.io/ScannerRepo/assets/icons/icon-32x32.png": "f2e0a73c6d735cc1e3c2cb1ffa964b684326cdbf",
+    "https://aliayub007.github.io/ScannerRepo/assets/icons/icon-384x384.png": "58fd074eca66c6223ad217c1c0c7d06880a08e53",
+    "https://aliayub007.github.io/ScannerRepo/assets/icons/icon-512x512.png": "751e451c3df49031d4e76c4560eff56f1716a002",
+    "https://aliayub007.github.io/ScannerRepo/assets/icons/icon-72x72.png": "58d6745b5ff885601c61c11e1775fc7b5f045e7f",
+    "https://aliayub007.github.io/ScannerRepo/assets/icons/icon-96x96.png": "6ca29999af98f0cf163cde2ee82af440f8c7bac6",
+    "https://aliayub007.github.io/ScannerRepo/assets/icons/mstile-150x150.png": "97db6b63f6214367fa49e266add632bc8af3f5a4",
+    "https://aliayub007.github.io/ScannerRepo/assets/icons/safari-pinned-tab.svg": "03d482e5aa20cb76842fcf984d28cd65c0423987",
+    "https://aliayub007.github.io/ScannerRepo/favicon.ico": "a2eaf72bbac9bea51761890d3665734f0bc390f4",
+    "https://aliayub007.github.io/ScannerRepo/index.html": "f092eb840811097acc40803262a58118ed1a13fb",
+    "https://aliayub007.github.io/ScannerRepo/main-es2015.5cd471cbe76618be5d11.js": "3b455f9b8822b0b9b45a9f51d154210ac6cfc9d3",
+    "https://aliayub007.github.io/ScannerRepo/main-es5.5cd471cbe76618be5d11.js": "4ea942744cb3bba3b9aceee1d3e24310119f03f2",
+    "https://aliayub007.github.io/ScannerRepo/manifest.webmanifest": "51807fd77aff1ac5c3b6bb2c06722f4e20516182",
+    "https://aliayub007.github.io/ScannerRepo/polyfills-es2015.f9c998e4f61258bf4bc8.js": "c390c01ffbc2fe4ed798c2cdf9c887116ec0f6e1",
+    "https://aliayub007.github.io/ScannerRepo/polyfills-es5.e635ccaa1f7b054edd2e.js": "45a0fb2070fb4e74b3817de89b9693a1dbfc8517",
+    "https://aliayub007.github.io/ScannerRepo/runtime-es2015.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://aliayub007.github.io/ScannerRepo/runtime-es5.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://aliayub007.github.io/ScannerRepo/styles.b89a2205c076858cd494.css": "7339cc77e3268ff58abaf26e94527ed3154ff9e2"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
